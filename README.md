@@ -15,8 +15,7 @@ To understand more about each edition of Lollapalooza Brazil from 2012 until 202
 - Visualization
 
 ## Technologies
-- Python
-- Pandas
+- Python (Pandas and Numpy)
 - MySQL
 - Tableau
 
