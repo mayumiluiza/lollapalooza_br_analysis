@@ -2,7 +2,7 @@
 Data Visualization from Lollapalooza Brazil (2012 - 2023).
 
 ## Project objective
-To understand more about each edition of Lollapalooza Brazil from 2012 until 2023.
+To understand more about each edition of Lollapalooza Brazil from 2012 until 2023 connecting to Spotify API.
 
 ## Methods
 - Webscrapping
@@ -19,5 +19,8 @@ To understand more about each edition of Lollapalooza Brazil from 2012 until 202
 - MySQL
 - Tableau
 
-# Project Description
-All information gathered from Wikipedia and other online sites.
+## Project Observation
+All information gathered from Wikipedia, other online sites and Spotify API.
+
+## Visualization
+https://public.tableau.com/app/profile/mayumi.kobayashi/viz/LollapaloozaAnalysisTableau/Geral?publish=yes
