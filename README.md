@@ -2,7 +2,7 @@
 Data Visualization from Lollapalooza Brazil (2012 - 2023).
 
 ## Project objective
-To understand more about each edition of Lollapalooza Brazil from 2012 until 2023 connecting to Spotify API.
+In this project, I delved into the world of #LollapaloozaBrasil, analyzing and visualizing data from 2012 to 2023. Leveraging the powerful Spotify API and the remarkable capabilities of Tableau,I embarked on a journey to learn and understand the fascinating world of each edition of this iconic music festival.
 
 ## Methods
 - Webscrapping
